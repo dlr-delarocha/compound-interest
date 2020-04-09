@@ -6,6 +6,9 @@
       </el-header>
       <el-container>
         <el-main>
+          <el-inpu>
+            lad coasdgaskjdkjasdjhasjhdklashdlkhaksldhlkqd
+          </el-inpu>
           <router-view/>
         </el-main>
       </el-container>
